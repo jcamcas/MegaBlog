@@ -8,6 +8,6 @@ En este cuurso vesmos todo de:
 * Todos los comandos de Git.
 * El flujo de trabajo en Github.
 * El verdadero amor por las buenas prácticas.
-* Trucos muy locos
+* Trucos muy locos de Git.
 
 Readme de prueba para el curso de Git y  Github .
