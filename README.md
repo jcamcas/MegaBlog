@@ -9,5 +9,7 @@ En este cuurso vesmos todo de:
 * El flujo de trabajo en Github.
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos de Git.
+* Incluye ejemplos en Windows, Linix y Mac.
+* Disponible en todas las edades.
 
 Readme de prueba para el curso de Git y  Github .
